@@ -1,2 +1,2 @@
-## i use zereneOS btw
+## i love twinks btw
 
