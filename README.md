@@ -9,21 +9,31 @@
 ## `$ neofetch`
 
 ```text
-        ████████████
-      ████████████████
-    ████████████████████
-   ██████████████████████
-   ██████████████████████
-    ████████████████████
-      ████████████████
-        ████████████
+        -/oyddmdhs+:.            
+      -odNMMMMMMMMNNmhy+-`            
+    -yNMMMMMMMMMMMNNNmmdhy+-          
+  `omMMMMMMMMMMMMNmdmmmmddhhy/`       
+  omMMMMMMMMMMMNhhyyyohmdddhhhdo`     
+ .ydMMMMMMMMMMdhs++so/smdddhhhhdm+`   
+  oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.  
+   :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh  
+     .:+sydNMMMMMNNNmmmdddhhhhhhmMmy  
+        /mMMMMMMNNNmmmdddhhhhhmMNhs:  
+     `oNMMMMMMMNNNmmmddddhhdmMNhs+`   
+   `sNMMMMMMMMNNNmmmdddddmNMmhs/.     
+  /NMMMMMMMMNNNNmmmdddmNMNdso:`       
+ +MMMMMMMNNNNNmmmmdmNMNdso/-          
+ yMMNNNNNNNmmmmmNNMmhs+/-`            
+ /hMMNNNNNNNNMNdhs++/-`              
+ `/ohdmmddhys+++/:.`                  
+   `-//////:--.     
 
 pb9e@gentoo
 ───────────
 OS:       Linux
 Distro:   Gentoo
-Shell:    bash / zsh
-Editor:   whatever works
+Shell:    bash
+Editor:   zed
 Focus:    systems & code
 ```
 
